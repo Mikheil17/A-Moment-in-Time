@@ -8,4 +8,4 @@ A short Unity experience designed to immerse the user in a moment of calm, surro
 Unity | C#
 
 ## Context
-Created as part of the VXR class as my first Unity learning project.
+Created as part of a VXR class as my first Unity learning project.
